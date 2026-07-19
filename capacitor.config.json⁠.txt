@@ -1,0 +1,6 @@
+{ 
+"appId": "com.monkemobile.gorillatag", 
+"appName": "GorillatagMobile", 
+"webDir": "www", 
+"bundledWebRuntime": false 
+}

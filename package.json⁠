@@ -1,11 +1,17 @@
 {
-  "name": "gorillatagmobile",
+  "name": "gorillatag-mobile",
   "version": "1.0.0",
-  "dependencies": {
-    "@capacitor/core": "^5.0.0",
-    "@capacitor/ios": "^5.0.0"
+  "description": "Gorilla Tag Mobile Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "@capacitor/cli": "^5.0.0"
-  }
+  "dependencies": {
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/ios": "^6.0.0"
+  },
+  "author": "",
+  "license": "ISC"
 }
+
